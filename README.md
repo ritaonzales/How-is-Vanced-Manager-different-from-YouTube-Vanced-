@@ -1,0 +1,2 @@
+# How-is-Vanced-Manager-different-from-YouTube-Vanced-
+Vanced Manager is a separate application that serves as a tool to manage and install YouTube Vanced. It allows users to easily download and update YouTube Vanced, which is a modified version of the official YouTube app. YouTube Vanced offers additional features like ad-blocking &amp; background playback.  https://www.ytvancedpro.com/vanced-manager-apk/
